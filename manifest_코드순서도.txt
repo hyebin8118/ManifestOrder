@@ -1,0 +1,30 @@
+
+<manifest>
+
+    <uses - ...>
+    <permission - ...>
+    <instrumentation>
+    <support-...>
+    <compatible>
+
+
+
+
+    <application>
+
+        <activity>
+
+        <activity - alias>
+
+        <service>
+
+        <receiver>
+
+        <provider>
+
+        <uses - library>
+
+    </application>
+
+</manifest>
+
